@@ -1,0 +1,7 @@
+{
+    "etudiants": [
+    { "id": 1, "nom": "etudiant 1" },
+    { "id": 2, "nom": "etudiant 2" },
+    { "id": 3, "nom": "etudiant 3" }
+    ]
+   }
